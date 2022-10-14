@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["Redirect",""]],"trait":[["Transform","Trait for transform a type to another one. Both the input and output type should impl [actix_service::Service] trait."]]};

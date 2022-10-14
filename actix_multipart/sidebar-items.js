@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["MultipartError","A set of errors that can occur during parsing multipart streams"]],"struct":[["Field","A single field in a multipart stream"],["Multipart","The server-side implementation of `multipart/form-data` requests."]]};
